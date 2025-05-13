@@ -11,10 +11,10 @@ Alvise Gottieri, Alessandro Verna, Rob Van Kranenburg.
 
 So what is missing below some ideas on how to make a better manifesto.
 
-#### Supplement: Implementing Ethical AI Principles in Practice
+# <b> Supplement: Implementing Ethical AI Principles in Practice
 To complement the values and visions expressed in the manifesto, the following actions are proposed to operationalize ethical AI principles:
 
-###### 1. Clear Definitions and Terminology
+### <b> 1. Clear Definitions and Terminology
 Develop a shared glossary of key concepts (e.g., AI, data sovereignty, ethics) across communities, researchers, and policymakers to ensure clarity and inclusiveness.
 
 ###### 2. AI Explainability and Interpretability
