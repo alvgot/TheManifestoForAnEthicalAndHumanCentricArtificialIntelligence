@@ -10,7 +10,7 @@ so you can add or remove what is really needed from The Manifesto.
 Alvise Gottieri, Alessandro Verna, Rob Van Kranenburg.
 
 So what is missing ? Below some ideas coming from the comparison of both documents the Manifesto and the ue AI act, we think those new key points can be a good starting to visualize
-what we really need to work on for a renew AI Ethical Manifesto.
+what we really need to work on for a renewed AI Ethical Manifesto.
 
 # <b> Supplement: Implementing Ethical AI Principles in Practice
 To complement the values and visions expressed in the manifesto, the following actions are proposed to operationalize ethical AI principles:
