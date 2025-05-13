@@ -17,41 +17,41 @@ To complement the values and visions expressed in the manifesto, the following a
 ### <b> 1. Clear Definitions and Terminology
 Develop a shared glossary of key concepts (e.g., AI, data sovereignty, ethics) across communities, researchers, and policymakers to ensure clarity and inclusiveness.
 
-###### 2. AI Explainability and Interpretability
+### <b> 2. AI Explainability and Interpretability
 Mandate that AI systems used in critical contexts include explainability-by-design features, enabling users to understand how decisions are made and to contest or override them when necessary.
 
-###### 3. Robust Risk Assessment and Mitigation Strategies
+### <b> 3. Robust Risk Assessment and Mitigation Strategies
 Introduce community-centered risk assessments before deployment. Use open frameworks (e.g., ALTAI – Assessment List for Trustworthy AI) to identify potential harms, especially to marginalized groups.
 
-###### 4. Accountability Mechanisms
+### <b> 4. Accountability Mechanisms
 Establish independent auditing bodies and community oversight boards to monitor AI systems. Ensure clear legal pathways for individuals and groups to seek redress and hold developers accountable.
 
-###### 5. AI Lifecycle Oversight
+### <b> 5. AI Lifecycle Oversight
 Require transparent documentation and review at each phase of AI development — from design and data collection to training, deployment, and post-deployment monitoring. Incorporate public-interest oversight at all stages.
 
-###### 6. Human-AI Interaction and Autonomy
+### <b> 6. Human-AI Interaction and Autonomy
 Design AI interfaces that preserve user agency, including opt-out options, clear disclosures, and mechanisms for human intervention in high-stakes decisions (e.g., healthcare, employment).
 
-###### 7. Informed Consent
+### <b> 7. Informed Consent
 Implement meaningful, clear, and accessible consent protocols. Ensure users understand what data is being collected, for what purpose, and have the ability to revoke consent at any time.
 
-###### 8. Bias in Training Data and Models
+### <b> 8. Bias in Training Data and Models
 Make training data and model architectures subject to public scrutiny. Promote the use of representative datasets and adopt fairness-aware modeling techniques to reduce bias and discrimination.
 
-###### 9. Ethical Use of Generative AI
+### <b> 9. Ethical Use of Generative AI
 Ban the use of generative AI in high-risk applications (e.g., political manipulation, biometric surveillance) without strict oversight. Require transparent labeling of AI-generated content in media, art, and communication.
 
-###### 10. Cybersecurity and System Integrity
+### <b> 10. Cybersecurity and System Integrity
 Enforce rigorous security standards for all AI systems. Subject systems to third-party audits to detect vulnerabilities, prevent adversarial attacks, and safeguard user data.
 
-###### 11. Collaboration with Industry and Governments
+### <b> 11. Collaboration with Industry and Governments
 Develop multi-stakeholder governance frameworks that include not only developers and regulators but also civil society, affected communities, and labor representatives to ensure democratic participation in tech governance.
 
-###### 12. Regulatory Frameworks
+### <b> 12. Regulatory Frameworks
 Support enforceable national and international regulations (e.g., EU AI Act, OECD principles), and create complementary grassroots-led charters or codes of ethics to extend accountability where laws fall short.
 
 These additions aim to bridge the manifesto’s visionary ethics with real-world mechanisms — ensuring that AI systems reflect our collective values and responsibilities, and serve people and the planet over power and profit.
 
-#### We need translations in all launguages
+# We need a Manifesto translation in all launguages
 
 At the moment we have only the Manifesto in Italian and English languages, so you all are incouraged to translate the Manifesto in any languages.
